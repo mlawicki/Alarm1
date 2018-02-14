@@ -1,0 +1,10 @@
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\obj\Debug\Alarm.Form1.resources
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\obj\Debug\Alarm.exe
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\obj\Debug\Alarm.pdb
+C:\Users\DOBRI\Desktop\programy csharp\Alarm\Alarm\Alarm\obj\Debug\Alarm.Form2.resources
